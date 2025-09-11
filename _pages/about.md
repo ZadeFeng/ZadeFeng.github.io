@@ -16,7 +16,7 @@ I’m a **Computer Science student at Georgia Tech** (graduating Dec 2025) who l
 
 At the **Georgia Tech Research Institute**, I first joined as a **Cloud Engineer Intern** in May 2024. In that role, I developed automation tools using Python and AWS Lambda that cut cloud infrastructure costs by about **$15,000 each year**. I also designed a cross-platform testing framework that reduced test cycles by more than two hours per run, saving an additional **$50,000 annually**.  
 
-After a whole year as a cloud engineer intern, I switched roles to a **DevOps Engineer Intern** at a new team, where I focused on automation and deployment workflows. I built multi-environment deployment pipelines for both Java web apps and an internal LLM service using Kubernetes, Rancher, and GitLab CI/CD. I also integrated SAST and DAST security testing directly into the pipelines, ensuring vulnerabilities were caught early in the development process.  
+After a year as a cloud engineer intern, I transitioned to a new team as a **DevOps Engineer Intern** at a new team, where I focused on automation and deployment workflows. I built multi-environment deployment pipelines for both Java web apps and an internal LLM service using Kubernetes, Rancher, and GitLab CI/CD. I also integrated SAST and DAST security testing directly into the pipelines, ensuring vulnerabilities were caught early in the development process.  
 
 At the **Autonomous Connected Transportation (ACT) Laboratory**, I’ve worked as a **Research Assistant** on and off since January 2024. My focus there has been on real-time driver safety monitoring, where I built algorithms capable of processing sensor and vision data at 60 fps. I also developed a Unity-based HMI application that made it easier for researchers to collect and visualize telemetry data in a user-friendly way.  
 
@@ -53,5 +53,5 @@ At Georgia Tech, I’m an active member of **VGDev**, the student-run video game
 
 If you’ve made it this far — thanks for reading! If you’re interested in collaborating, chatting about cloud, or just sharing cool Spotify playlists, feel free to reach out:  
 
-- **Email:** zadefeng@gmail.com
-- **LinkedIn:** www.linkedin.com/in/zade-feng
+- **Email:** [zadefeng@gmail.com](mailto:zadefeng@gmail.com)
+- **LinkedIn:** [linkedin.com/in/zade-feng](https://www.linkedin.com/in/zade-feng)
