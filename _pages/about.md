@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "Hey, I’m Zade 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hey, I’m Zade 👋
 
 I’m a **Computer Science student at Georgia Tech** (graduating Dec 2025) who loves turning tough engineering problems into clean, scalable software solutions. Most recently, I’ve been diving deep into **cloud automation** and **DevOps**, but I also have a creative streak for App/game development and fun side projects.
 
