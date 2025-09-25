@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Zade Feng"
   pronouns         : # example: "she/her"  
-  bio              : "Georgia Tech CS student (Dec '25). I build software from the cloud all the way down to the bare metal. I enjoy arguing with both servers and compilers—and sometimes, I even win."
+  bio             : "Georgia Tech CS student (Dec '25) passionate about building the resilient, automated systems that power modern software. I'm drawn to cloud and DevOps because the future of innovation lies in creating efficient, scalable infrastructure that allows developers to build without limits. My goal is to engineer the backbone of tomorrow's technology."
   employer         : "Georgia Insitute of Technology"
   uri              : # URL
   email            : "zadefeng@gmail.com" 
